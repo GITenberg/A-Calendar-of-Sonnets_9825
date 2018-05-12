@@ -1,10 +1,8 @@
 _repo: A-Calendar-of-Sonnets_9825
-_version: 0.0.1
+_version: 0.1.0
 covers:
-- cover_type: archival
-  image_path: 9825/9825-h/images/title.png
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jackson, Helen Hunt
@@ -19,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1030
     wikipedia: http://en.wikipedia.org/wiki/Helen_Hunt_Jackson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9825#A-Calendar-of-Sonnets
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
